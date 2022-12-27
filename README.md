@@ -2,9 +2,12 @@
 
 * Script
 * Video
-* Text to speech - AWS, Azure, GCP, Speechelo
-* Insert soeech
+* Voice over
+    * Text to speech - AWS, Azure, GCP, Speechelo. 
+    * Narrate - audacity
+* Insert voice over
 * Add annotations
 * Captions
+* Publish - file, youtube, ...
 * Actions - tabs - video & script. 
 * Generate - search
